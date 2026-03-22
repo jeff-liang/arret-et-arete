@@ -1,0 +1,1 @@
+Spicy take: Bismarck > Chamberlain > Wilson > Napoleon
