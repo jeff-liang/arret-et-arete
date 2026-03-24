@@ -14,6 +14,7 @@ P(top 5) = 50%
 P(beat my bot) = 70%
 
 **Big Questions (tm)**
+
 P(Jesus is God) = 7%
 
 P(ZFC is inconsistent) = 7%
@@ -27,6 +28,7 @@ where "AGI" is defined as "AI systems that can profitably replace 90% of white c
 P(the fundamental law of the universe is humor maximization) = 0.42%
 
 **Personal Questions**
+
 P(Conan Gray romantically interested in me | he is aware of me and my awesomeness) = 69%
 
 We leave the estimate of the condition as an exercise for the reader.
