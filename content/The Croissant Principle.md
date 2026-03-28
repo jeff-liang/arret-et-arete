@@ -1,3 +1,12 @@
+---
+epistemic_status: Sincere but is a rough draft with possible errors, more about the idea
+tags:
+  - ai
+  - math
+  - technical
+  - research
+date: 2026-03-22
+---
 I recently wrote an ML theory paper which proposes explanations for mysterious phenomena in contemporary machine learning like data scaling laws and double descent. Here's the [link to the paper](Croissant_Paradigm-7.pdf) and the [Twitter thread](https://x.com/realJeffLiang/status/1927827833763529015). I didn't get much attention and need an endorser to publish on ArXiv so I thought I'd post it here and get some feedback (and maybe an endorser!)
 
 Essentially what the paper does is propose that all data in a statistical learning problem arises from a latent space via a generative map. From this we derive an upper bound on the true loss as depending on the training/empirical loss, the distance in latent space to the closest training sample where the model attains better than the training loss, and the compressibility of the model (similar to Kolmogorov complexity).
