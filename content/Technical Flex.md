@@ -1,3 +1,12 @@
+---
+epistemic_status: Sincere
+tags:
+  - technical
+  - math
+  - flex
+date: 2026-03-22
+---
+
 [[(A) Problem Set 3.pdf]]
 
 This is a problem set I completed in 2022 for a PhD Optimal Transport class during my Economics Masters at the University of Toronto. I'm pretty proud of it; this is not easy stuff! As I recall, I figured out most of it by myself though I did need to look at Agueh and Carlier for Problem 1.
