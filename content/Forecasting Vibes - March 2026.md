@@ -1,3 +1,12 @@
+---
+epistemic_status: Sincere if not super carefully contemplated
+tags:
+  - hot-takes
+  - forecasting
+  - metaculus
+  - ai
+date: 2026-03-24
+---
 I'm excited to participate seriously in the next Metaculus Cup. But since that doesn't start until May, I thought I'd write down some forecasts right now. The following forecasts are made with varying amounts of effort/thought.
 
 **Summer Metaculus Cup**
