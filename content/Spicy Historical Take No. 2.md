@@ -1,1 +1,12 @@
+---
+epistemic_status: Sincere
+tags:
+  - hot-takes
+  - history
+  - europe
+  - institutions
+  - masculinity
+date: 2026-03-27
+---
+
 A lot of modern men sit in an incoherent superposition of three things: admiration of dominance/power/glory/strong men, wishful thinking that they would plausibly be the Great Man, and a total disconnect from the sheer brutality, pain, discipline and risk of the old world. One imagines being Napoleon if only they were born in an earlier era. You are not Napoleon; you are a man dying from illness hundreds of miles from his family for the sake of Napoleon and his legacy. Total intellectual/historical/psychological fantasy. Delusional.
