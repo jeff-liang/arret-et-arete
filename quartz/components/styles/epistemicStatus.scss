@@ -1,0 +1,26 @@
+.epistemic-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 4px;
+  background: var(--highlight);
+  border-left: 3px solid var(--secondary);
+  font-size: 0.85rem;
+
+  .epistemic-label {
+    color: var(--darkgray);
+    font-style: italic;
+    text-transform: lowercase;
+
+    &::after {
+      content: ":";
+    }
+  }
+
+  .epistemic-value {
+    color: var(--dark);
+    font-weight: 500;
+  }
+}
