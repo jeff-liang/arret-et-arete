@@ -8,7 +8,7 @@ export default (() => {
 
     return (
       <div class="epistemic-status">
-        <span class="epistemic-label">epistemic status</span>
+        <span class="epistemic-label">Epistemic Status: </span>
         <span class="epistemic-value">{status as string}</span>
       </div>
     )
